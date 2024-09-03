@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v6
         with:
           push: false
-          tags: hcereja/testeCI:latest
+          tags: hcereja/teste_ci:latest
